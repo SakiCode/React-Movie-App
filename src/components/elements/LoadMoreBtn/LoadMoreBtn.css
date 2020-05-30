@@ -1,0 +1,19 @@
+.rmdb-loadmorebtn {
+  background: #274DD8;
+  max-width: 20em;
+  margin: auto;
+  text-align: center;
+  color: #fff;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.rmdb-loadmorebtn p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  padding: 20px;
+}
+
+.rmdb-loadmorebtn:hover {
+  opacity: 0.8;
+}
