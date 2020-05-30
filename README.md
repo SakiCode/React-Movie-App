@@ -29,6 +29,6 @@ npm install or npm i
 npm start
 ```
 
-## Built With
+### Built With
 
 * [React](https://reactjs.org/) - The JavaScript framework used
